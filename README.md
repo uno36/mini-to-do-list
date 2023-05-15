@@ -127,7 +127,7 @@ You can deploy this project using:
 Example:
 
 ```sh
-    no npm run deploy
+    npm run deploy
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
